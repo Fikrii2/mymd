@@ -32,7 +32,7 @@ global.APIs = { // API Prefix
 }
 global.APIKeys = { // APIKey Here
 //======= 'https://website': 'apikey' =======//
-  'https://api.lolhuman.xyz': '7ecba1cc37eca2e93d6a983b',
+  'https://api.lolhuman.xyz': 'Fiktod',
   'https://hardianto.xyx': 'hardianto',
   'https://api.neoxr.eu.org': 'yourkey',
   'https://api.xteam.xyz': 'benniismaelapikey',
@@ -105,7 +105,7 @@ global.urlnya = 'https://chat.whatsapp.com/CUCsW6BWfmJLJwJgPQIaKM'
 
 //========= Call Template Button =========//
 global.dtc = 'Add Me'
-global.nmbrnya = '+62 822-5604-8971'
+global.nmbrnya = '+62 812-3373-8677'
 
 
 //============ Proses Bot ============//
